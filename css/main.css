@@ -1,3 +1,35 @@
 *{
-    
+    font-family: 'Roboto', 'Times New Roman', Times, serif;
 }
+
+body{
+    background-color: #fdffea;
+}
+
+.bg-color-header{
+    background: #759b67;
+}
+
+.navbar-brand{
+    width: 60px;
+}
+
+#navbar-items .navbar-nav{
+    display: flex;
+    justify-content: end;
+    width: 100%;
+}
+
+.navbar-brand{
+    max-width: 5rem;
+}
+
+img{
+    width: 50%;
+}
+
+.carousel-control-prev,.carousel-control-next{
+    font-size: 3rem;
+    color: black;
+}
+
